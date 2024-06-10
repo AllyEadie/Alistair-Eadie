@@ -52,3 +52,6 @@ During my 18 years in the Army, I developed a passion for security and a deep in
 <img src="https://img.shields.io/badge/-NPA%20Ethical%20Hacking-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
+
+
+## Projects
