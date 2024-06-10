@@ -16,7 +16,7 @@ During my 18 years in the Army, I developed a passion for security and a deep in
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ethical Hacking          | <a href="https://google.com">Detection Lab</a>|
+| Ethical Hacking          | <a href="https://github.com/AllyEadie/Ethical-Hacking/blob/main/README.md">Ethical Hacking</a>|
 | Data Forensics| <a href="https://google.com">Detection Lab</a>|
 
 
@@ -55,3 +55,4 @@ During my 18 years in the Army, I developed a passion for security and a deep in
 
 
 ## Projects
+-  <a href="https://github.com/AllyEadie/Ethical-Hacking/blob/main/README.md">Ethical Hacking</a> 
