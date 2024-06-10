@@ -12,7 +12,7 @@ Welcome to my GitHub page! With 18 years of experience in the Army, I have culti
 During my 18 years in the Army, I developed a passion for security and a deep intrigue for computers. This has driven my transition into the field of cybersecurity. I am committed to leveraging my extensive experience in security and discipline from my military career to protect and secure digital environments. My goal is to contribute to impactful cybersecurity projects, collaborate with talented professionals, and continuously enhance my skills in threat analysis, network security, and ethical hacking. I am eager to bring my unique perspective and dedication to the cybersecurity community, focusing on creating safe and resilient systems
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +21,7 @@ During my 18 years in the Army, I developed a passion for security and a deep in
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Ethical Hacking
 <div>
